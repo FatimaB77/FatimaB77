@@ -1,6 +1,6 @@
                                                    Hi, I’m Fatima Bayat
  I live in VA, USA.
- I am working at TPG  Language Data Analyst.
+ I am working at TPG as Language Data Analyst.
  I have got my Business Intelligence Analyst from Triple Ten. 
  I am looking to collaborate on outsourcing projects.
  All of my projects are available at github page.
