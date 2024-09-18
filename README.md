@@ -9,7 +9,7 @@
  fun fact: I love learning Technology
 
  Skills: Business analytics, Problem-solving,Data visualization, Data analysis
- communication, collaboration amd adaptability.
+ communication, collaboration amd adaptability, project analysis, Consultant,Tableau, Power BI, Excel, SQL, Analytics Analysts
  
                                                     Personal Summary:
 As a driven individual with a diverse background in education, security, healthcare, project management  and language services, I have strong skills in problem solving, communication, leadership. I am passionate about transforming data into actionable insights. I am interested to transition my expertise to a business intelligence analyst role where I can leverage my data analyst abilities to drive informed decision-making.
