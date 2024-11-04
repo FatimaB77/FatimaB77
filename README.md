@@ -1,7 +1,7 @@
                                                    Hi, I’m Fatima Bayat
  I live in VA, USA.
  I am working at TPG.
- I have got my Business Intelligence Analyst from Triple Ten and I m pursuaing my Master on Science in Health Informatics and Data Analytics at GMU. 
+ I have got my Business Intelligence Analyst from Triple Ten and I m pursuaing my Master on Science Degree in Health Informatics and Data Analytics at GMU. 
  I am looking to collaborate on outsourcing projects.
  All of my projects are available at github page.
  How to reach me fatimab399@gmail.com
