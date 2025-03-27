@@ -6,7 +6,7 @@ I live in VA, USA, and currently work at TPG. I have earned my Business Intellig
 Fun fact: I love learning about technology!
 
 Skills:
-Project Management, Business Analytics, Problem-Solving, Data Visualization, Data Analysis, Communication, Collaboration, Adaptability, Project Analysis, Consulting, Tableau, Power BI, Excel, SQL, and Analytics.Hi, I’m Fatima Bayat
+Project Management, Business Analytics, Problem-Solving, Data Visualization, Data Analysis, Communication, Collaboration, Adaptability, Project Analysis, Consulting, Tableau, Power BI, Excel, SQL, and Analytics.
  
  
                                                     Personal Summary:
